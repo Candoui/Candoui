@@ -3,7 +3,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Jorge Alejandro, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I'm Jorge Alejandro, Aprendiendo el codigo para programar y hacer mas facil la vida</h3>
 &emsp;
 
 -------------------
